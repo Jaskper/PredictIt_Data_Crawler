@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public Main() {
+		Chrome program = new Chrome();
+		program.setContractID(9494);
+		program.start();
+	}
+	
+	
+	
+	
+	public static void main(String[] args) {
+		Main main = new Main();
+	}
+
+}
